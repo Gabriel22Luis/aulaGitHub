@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html{
+    background-color: blueviolet;
+}
+
+img{
+border-radius: 1000px;
+    padding: 100px;
+    background-color: aliceblue;
+}
