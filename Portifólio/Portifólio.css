@@ -1,0 +1,67 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    background-color: white;
+}
+
+.Name {
+    text-align: center;
+    margin: 10px;
+}
+
+h2 {
+    background-color: brown;
+    text-align: center;
+    margin: 40px;
+    width: 1800px;
+    height: 30px;
+    border: solid 8px black;
+}
+
+.Descri {
+    text-align: center;
+    height: 2%;
+    width: min-content 1800px;
+    background-color: aliceblue;
+    font-size: larger;
+}
+
+ol {
+    text-align: center;
+    font-size: 50px;
+    border: solid 2px black;
+    margin: 50px;
+}
+
+img {
+    margin: 30px;
+    width: 220px;
+    height: 220px;
+    border: solid 5px blue;
+    border-radius: 100px;
+}
+
+.link {
+    background-color: cyan;
+    height: 30px;
+    text-align: center;
+}
+
+a{
+    font-size: larger;
+    margin: 10px;
+}
+
+.Profi{
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    transform: translate( 0%, 10%);
+    font-size: 800%;
+    background-color: blue;
+    border-radius: 10px;
+    border: 10px black;
+}

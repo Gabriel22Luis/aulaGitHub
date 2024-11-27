@@ -1,0 +1,33 @@
+*{
+    padding: 4px;
+    margin: 4px;
+}
+
+html{
+    background-color: violet;
+}
+
+img{
+border-radius: 1000px;
+    padding: 100px;
+    background-color: aliceblue;
+}
+
+.Email{
+padding: 5px;
+font-size: 200%;
+}
+
+h1{
+    font-size: 400%;
+    padding-left: 800px;
+    border: solid 10px purple;
+}
+
+a{
+    font-size: 200%;
+}
+
+form{
+    font-size: 200%;
+}
